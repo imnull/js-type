@@ -1,0 +1,23 @@
+{
+  "name": "js-type",
+  "version": "0.0.0",
+  "description": "JavaScript Type-String",
+  "main": "js-type-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imnull/js-type.git"
+  },
+  "keywords": [
+    "type",
+    "js"
+  ],
+  "author": "Ma Ke (MrNULL)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imnull/js-type/issues"
+  },
+  "homepage": "https://github.com/imnull/js-type"
+}
