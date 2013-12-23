@@ -20,7 +20,7 @@ Null's type-string is 'null'
 
 # Type Judge
    
-   console.log( jstype.isArray( [ ] ) );
-   console.log( jstype.isObject( { } ) );
-   console.log( jstype.isString( '' ) );
-   //...
+    console.log( jstype.isArray( [ ] ) );
+    console.log( jstype.isObject( { } ) );
+    console.log( jstype.isString( '' ) );
+    //...
