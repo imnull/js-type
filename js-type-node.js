@@ -31,6 +31,8 @@ var foo = {
 			return tstr(val);
 		}
 	}
+	, tstr : tstr
+	, ostr : ostr
 }
 
 
