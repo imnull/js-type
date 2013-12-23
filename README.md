@@ -3,6 +3,8 @@ js-type
 
 JavaScript Type Getter
 
+npm: [https://npmjs.org/package/js-type](https://npmjs.org/package/js-type)
+
 # Lite type-string
 
     console.log( 'lite-type: ', jstype.lite());
